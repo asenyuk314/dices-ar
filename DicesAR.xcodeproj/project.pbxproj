@@ -59,8 +59,8 @@
 				11B92FEB28A53F8800D97EB5 /* art.scnassets */,
 				11B92FED28A53F8800D97EB5 /* ViewController.swift */,
 				11B92FEF28A53F8800D97EB5 /* Main.storyboard */,
-				11B92FF228A53F8B00D97EB5 /* Assets.xcassets */,
 				11B92FF428A53F8B00D97EB5 /* LaunchScreen.storyboard */,
+				11B92FF228A53F8B00D97EB5 /* Assets.xcassets */,
 			);
 			path = DicesAR;
 			sourceTree = "<group>";
